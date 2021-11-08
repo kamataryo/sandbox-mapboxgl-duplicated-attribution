@@ -1,0 +1,23 @@
+{
+	"attribution": ["xxx", "yyy"],
+	"bounds": [
+	  -180,
+	  -85.051129,
+	  180,
+	  85.051129
+	],
+	"description": "aaa",
+	"format": "pbf",
+	"scheme": "xyz",
+	"version": "2.0.0",
+	"maxzoom": 7,
+	"minzoom": 0,
+	"center": [
+	  130.78125,
+	  33.129653,
+	  7
+	],
+	"tiles": [
+	  "https://cdn.geolonia.com/tiles/natural-earth/{z}/{x}/{y}.mvt"
+	]
+}
